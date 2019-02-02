@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+## 《后来》- 刘若英
 
-You can use the [editor on GitHub](https://github.com/91341765/913417651.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+后来 我总算学会了 如何去爱 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+可惜你早已远去 消失在人海 
 
-### Markdown
+后来 终于在眼泪中明白
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+有些人一旦错过就不再  
 
-```markdown
-Syntax highlighted code block
+栀子花白花瓣 落在我蓝色百褶裙上
 
-# Header 1
-## Header 2
-### Header 3
+爱你你轻声说 我低下头 闻见一阵芬芳
 
-- Bulleted
-- List
+那个永恒的夜晚 十七岁仲夏 你吻我的那个夜晚
 
-1. Numbered
-2. List
+让我往后的时光 每当有感叹 总想起当天的星光
 
-**Bold** and _Italic_ and `Code` text
+那时候的爱情 为什么就能那样简单 
 
-[Link](url) and ![Image](src)
-```
+而又是为什么 人年少时 一定要让深爱的人受伤 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+在这相似的深夜里 你是否一样 也在静静追悔感伤 
 
-### Jekyll Themes
+如果当时我们能不那么倔强 现在也不那么遗憾 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/91341765/913417651.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+你都如何回忆我 带着笑或是很沉默
 
-### Support or Contact
+这些年来 有没有人能让你不寂寞  
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+后来 我总算学会了 如何去爱 
+
+可惜你早已远去 消失在人海  
+
+后来 终于在眼泪中明白
+
+有些人 一旦错过就不再  
+
+你都如何回忆我 带着笑或是很沉默  
+
+这些年来 有没有人能让你不寂寞
+
+后来 我总算学会了如何去爱 
+
+可惜你早已远去 消失在人海  
+
+后来 终于在眼泪中明白 
+
+有些人 一旦错过就不再  
+
+后来 我总算学会了 如何去爱 
+
+可惜你早已远去 消失在人海  
+
+后来 终于在眼泪中明白
+
+有些人 一旦错过就不再 永远不会再重来
+
+有一个男孩 爱着那个女孩
